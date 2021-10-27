@@ -15,5 +15,5 @@ hello twice
 hello twice
 hello twice
 hello twice master test 
-hello twice
+hello twice hot-fix test
 /usr/bin/bash: wq: command not found
